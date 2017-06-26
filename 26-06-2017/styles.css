@@ -1,0 +1,13 @@
+<styles>
+.header .row .col {
+heigt:200px;
+background-color:greenyellow;
+}
+.header .row .col p{
+  color: green;
+  font-size: 100px
+}
+.larger-image {
+  border-radius: radio:50%;
+}
+</styles>
